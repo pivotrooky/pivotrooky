@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Tom, I'm currently very interested in opportunities to apply my coding/web development skills!
 
 <!--
 **pivotrooky/pivotrooky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
