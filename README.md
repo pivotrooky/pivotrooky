@@ -1,4 +1,5 @@
-### Hi there! My name is Tom and I'm very interested in opportunities to apply my coding/web development skills!
+### Hi there! My name is Tom. 
+### I'm a full-stack Javascript developer, I have experience working with React, Node, Express and Sequelize and am looking forward to working on new cool projects!
 
 <!--
 **pivotrooky/pivotrooky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
