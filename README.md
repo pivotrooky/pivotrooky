@@ -13,6 +13,7 @@
 <img width="8%" height="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
 <img width="8%" height="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">
 <img width="8%" height="50%" src="https://miro.medium.com/max/948/1*JCaJnwaAOCDv-ZHX_M9Exw.png">
+</br>
 <img width="8%" height="100%" src="https://www.php.net/images/logos/new-php-logo.svg">
 <img width="9.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
 <img width="8.4%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png">
