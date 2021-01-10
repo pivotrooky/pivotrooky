@@ -6,6 +6,7 @@
 &nbsp;
 ## Languages & Tools:
 
+On the front...
 &nbsp;
 <p align="">
 <img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" >
@@ -16,6 +17,8 @@
 <img width="8%" height="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">
 <img width="8%" height="50%" src="https://miro.medium.com/max/948/1*JCaJnwaAOCDv-ZHX_M9Exw.png">
 </br>
+
+On the back...
 <img width="8%" height="100%" src="https://www.php.net/images/logos/new-php-logo.svg">
 <img width="8%" height="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">
 <img width="9.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
