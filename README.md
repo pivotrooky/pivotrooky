@@ -18,7 +18,9 @@ On the front...
 <img width="8%" height="50%" src="https://miro.medium.com/max/948/1*JCaJnwaAOCDv-ZHX_M9Exw.png">
 </br>
 
-On the back...
+And on the back...
+
+&nbsp;
 <img width="8%" height="100%" src="https://www.php.net/images/logos/new-php-logo.svg">
 <img width="8%" height="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">
 <img width="9.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
@@ -28,7 +30,6 @@ On the back...
 <img width="8.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sequelize_icon_130173.png">
 <img width="7.5%" height="50%" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png">
   
-&nbsp;
 
 &nbsp;
 
