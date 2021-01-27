@@ -1,5 +1,5 @@
 ### Hi there! My name is Tom. 
-### I'm a full-stack Javascript developer, I have experience working with Bootstrap/MaterialUI/Sass, Typescript, Angular, React/Redux, Ionic, Node, Passport, PHP, Python, Express and SQL/Sequelize
+### I'm a full-stack Javascript developer, I have experience working with Bootstrap/MaterialUI/Sass, Typescript, Angular, React/Redux, Ionic, Node.js, Passport, PHP, Python, Express and SQL/Sequelize
 
 ### I love solving problems and am looking forward to working on new cool projects!
 
