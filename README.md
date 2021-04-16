@@ -29,6 +29,7 @@ And on the back...
 <img width="10%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_wordmark_logo_icon_146528.png">
 <img width="8.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sequelize_icon_130173.png">
 <img width="7.5%" height="50%" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png">
+<img width="7.5%" height="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1920px-Amazon_Web_Services_Logo.png">
 
 &nbsp;
 
