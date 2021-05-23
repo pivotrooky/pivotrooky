@@ -1,7 +1,7 @@
-### Hi there! My name is Tom. 
-### I'm a full-stack Javascript developer, I have experience working with Bootstrap/MaterialUI/Sass, Typescript, Angular, React/Redux, Ionic, Node.js, Passport, PHP, Python, Express and SQL/Sequelize
-
-### I love solving problems and am looking forward to working on new cool projects!
+### Hi there! My name is Tom.
+### I'm a software developer. At the moment, I'm mostly working with microservices written in Node/Typescript interacting with AWS.
+### My mission as a programmer is to enable real-life solutions which have the greatest impact for as many people as possible. Right now, I'm really interested in financial inclusion.
+### I love solving problems, time-travel, and learning about the underlying principles of life and code.
 
 &nbsp;
 ## Languages & Tools:
@@ -15,7 +15,15 @@ On the front...
 <img width="8.5%" height="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_material_design.svg/512px-Logo_material_design.svg.png">
 <img width="8%" height="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
 <img width="8%" height="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">
+</br>
+
+Mobile...
+
+&nbsp;
 <img width="8%" height="50%" src="https://miro.medium.com/max/948/1*JCaJnwaAOCDv-ZHX_M9Exw.png">
+<img width="8%" height="50%" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png">
+<img width="8%" height="50%" src="https://usercontent.one/wp/www.raulferrergarcia.com/wp-content/uploads/2020/11/Google-flutter-logo.png">
+
 </br>
 
 And on the back...
