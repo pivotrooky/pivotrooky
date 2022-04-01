@@ -1,7 +1,7 @@
 ### Hi there! My name is Tom.
-### I'm a software developer. At the moment, I'm mostly working with microservices written in Node/Typescript interacting with AWS.
+### I'm a software developer.
 ### As a programmer, I aim to enable real-life solutions which have the greatest impact for as many people as possible. I'm especially interested in financial inclusion.
-### I love solving problems, time-travel, and learning about the underlying principles of life and code.
+### I love interesting problems and time travel.
 
 &nbsp;
 ## Languages & Tools:
