@@ -31,6 +31,7 @@ And on the back...
 &nbsp;
 <img width="8%" height="100%" src="https://www.php.net/images/logos/new-php-logo.svg">
 <img width="8%" height="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">
+<img width="9.6%" height="50%" src="https://www.freecodecamp.org/news/content/images/2021/10/golang.png">
 <img width="9.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
 <img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png">
 <img width="8%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png">
