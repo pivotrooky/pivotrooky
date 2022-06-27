@@ -20,23 +20,21 @@ On the front...
 Mobile...
 
 &nbsp;
-<img width="8%" height="50%" src="https://miro.medium.com/max/948/1*JCaJnwaAOCDv-ZHX_M9Exw.png">
 <img width="8%" height="50%" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png">
 <img width="8%" height="50%" src="https://usercontent.one/wp/www.raulferrergarcia.com/wp-content/uploads/2020/11/Google-flutter-logo.png">
+<img width="8%" height="50%" src="https://miro.medium.com/max/948/1*JCaJnwaAOCDv-ZHX_M9Exw.png">
 
 </br>
 
 And on the back...
 
 &nbsp;
-<img width="8%" height="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">
-<img width="9.6%" height="50%" src="https://www.freecodecamp.org/news/content/images/2021/10/golang.png">
 <img width="9.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
+<img width="10%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_wordmark_logo_icon_146528.png">
+<img width="9.6%" height="50%" src="https://www.freecodecamp.org/news/content/images/2021/10/golang.png">
+<img width="8%" height="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">
 <img width="8%" height="100%" src="https://www.php.net/images/logos/new-php-logo.svg">
 <img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png">
-<img width="8%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png">
-<img width="10%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_wordmark_logo_icon_146528.png">
-<img width="8.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sequelize_icon_130173.png">
 <img width="7.5%" height="50%" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png">
 <img width="7.5%" height="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1920px-Amazon_Web_Services_Logo.png">
 
