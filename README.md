@@ -1,6 +1,6 @@
 ### Hi there! My name is Tom.
 I'm a software developer.
-As a programmer, I aim to enable real-life solutions which have the greatest impact for as many people as possible. I'm especially interested in financial inclusion.
+As a programmer, I aim to enable real-life solutions which have the greatest impact for as many people as possible.
 I love interesting problems and time travel.
 
 ## Contact Me:
