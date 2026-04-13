@@ -1,4 +1,5 @@
-Backend engineer with a background in film scoring and piano.
+Senior backend engineer with 5+ years of experience building and scaling systems across fintech, logistics, and edtech.
+Comfortable owning features end-to-end from architecture through production, with growing experience in experimentation, analytics infrastructure, and product metrics.
 
 ## Contact Me:
 
@@ -10,7 +11,7 @@ Backend engineer with a background in film scoring and piano.
 
 [1.1]: https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-48x48.png
 
-[1]: https://www.linkedin.com/in/tom%C3%A1s-wagner-7a5538135/
+[1]: https://www.linkedin.com/in/tomas-wagner-swe
 
 [2.1]:https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-48x48.png
 
